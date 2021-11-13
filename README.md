@@ -1,5 +1,5 @@
 # .NET-MVC-WEB-PROJES-
-.NET MVC  ile Öğrenci Bilgi Sistem Paneli
+.NET ile Öğrenci Bilgi Sistem Paneli
 
 ### Login Panel
 
